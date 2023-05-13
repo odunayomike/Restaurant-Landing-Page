@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "Restaurant-Landing-Page",
+		"path": "."
+	},
+	{
+		"name": "node_modules",
+		"path": "../../../../Documents/restaurant/node_modules"
+	}
+],
+  "settings": {}
+}
